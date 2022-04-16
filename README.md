@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HadeerEmadEldeen
-- 👀 I’m interested in problem soling
+- 👀 I’m interested in problem solving
 - 🌱 I’m currently learning softwere engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
